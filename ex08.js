@@ -48,4 +48,6 @@ switch (op) {
         ' é o resultado final do cálculo solicitado pelo usuário.'
     )
     break
+  default:
+    alert("Operação não escolhida");
 }
