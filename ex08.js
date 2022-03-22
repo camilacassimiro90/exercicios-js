@@ -3,6 +3,7 @@
 var num1 = Number(prompt('Entre com o 1º valor: '))
 var op = prompt('Entre com a operação: ')
 var num2 = Number(prompt('Entre com o 2º valor: '))
+var resultado;
 
 switch (op) {
   case '+':
